@@ -1,0 +1,7 @@
+1. h1~h6 // 헤드라인 글자 크기 조절
+2. p // 문단 나눔
+3. br // 줄바꿈
+4. li // 리스트
+5. ul // Unordered List
+6. ol // Ordered List
+7. 
